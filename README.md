@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @Ajakilas
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=55F700&width=435&lines=For+what%3F;for+fun)
 <p align="left">
-	<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=synthous&show_icons=true&theme=greywhite&count_private=true" height="195px"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=synthous&layout=donut&theme=greywhite" height="195px"/>
+	<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ajakilas&show_icons=true&theme=greywhite&count_private=true" height="195px"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajakilas&layout=donut&theme=greywhite" height="195px"/>
 </p>
 
 # 🔗 Links

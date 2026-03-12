@@ -11,7 +11,7 @@
 - <img width="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/640px-Telegram_2019_Logo.svg.png" alt="Telegram"/> [@Ajakilas1](https://t.me/Ajakilas1)
 
 # 🎯 Skills
-[![My Skills](https://skillicons.dev/icons?i=rust,godot,py,unity,lua,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,rust,godot,py,unity,lua,)](https://skillicons.dev)
 
 (unity in past)
 <!---

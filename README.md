@@ -1,3 +1,5 @@
+# [MIGRATED TO CODEBERG](https://codeberg.org/ajakilas)
+
 # 👋 Hi, I’m @Ajakilas
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=55F700&width=435&lines=For+what%3F;for+fun)
 <p align="left">
